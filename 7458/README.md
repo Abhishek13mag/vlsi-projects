@@ -41,4 +41,4 @@ The synthesized design consists of AND and OR gates connected according to the l
 
 ## Circuit Diagram
 
-![Synthesized Circuit](output.png)
+![Synthesized Circuit](output.pdf)
