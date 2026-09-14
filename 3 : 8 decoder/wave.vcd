@@ -1,0 +1,91 @@
+$date
+	Mon Sep 14 10:56:13 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module decoder_3to8_beh_tb $end
+$var wire 8 ! Y [7:0] $end
+$var reg 1 " A $end
+$var reg 1 # B $end
+$var reg 1 $ C $end
+$var reg 1 % En $end
+$var integer 32 & i [31:0] $end
+$scope module dut $end
+$var wire 1 " A $end
+$var wire 1 # B $end
+$var wire 1 $ C $end
+$var wire 1 % En $end
+$var reg 8 ' Y [7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 '
+bx &
+0%
+0$
+0#
+0"
+b0 !
+$end
+#10
+1$
+1#
+1"
+#20
+b1 !
+b1 '
+0"
+0#
+0$
+b0 &
+1%
+#30
+b10 !
+b10 '
+1$
+b1 &
+#40
+b100 !
+b100 '
+1#
+0$
+b10 &
+#50
+b1000 !
+b1000 '
+1$
+b11 &
+#60
+b10000 !
+b10000 '
+1"
+0#
+0$
+b100 &
+#70
+b100000 !
+b100000 '
+1$
+b101 &
+#80
+b1000000 !
+b1000000 '
+1#
+0$
+b110 &
+#90
+b10000000 !
+b10000000 '
+1$
+b111 &
+#100
+b1000 &
